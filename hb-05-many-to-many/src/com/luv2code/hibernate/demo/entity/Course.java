@@ -113,7 +113,8 @@ public class Course {
 			students = new ArrayList<>();
 		}
 		
-		students.add(theStudent);	}
+		students.add(theStudent);	
+	}
 
 	@Override
 	public String toString() {
